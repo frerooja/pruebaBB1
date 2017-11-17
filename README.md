@@ -15,4 +15,4 @@ Ahora una lista de mis videojuegos favoritos
 2. Assassin's Creed
 3. Metal Gear Solid
 
-[Image](src)
+![Image of Naruto](https://images3.alphacoders.com/273/thumb-1920-273995.jpg)
