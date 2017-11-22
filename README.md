@@ -8,9 +8,9 @@
 6. <https://www.google.es/search?as_sitesearch=euw.leagueoflegends.com&q=bots>
 7. <https://www.google.es/search?as_qdr=d&q=hackers>
 8. <https://www.google.es/search?as_rights=(cc_publicdomain|cc_attribute|cc_sharealike).-(cc_noncommercial|cc_nonderived)-&as_filetype=PNG&q=league+of+legends>
-9. 1. <
-   2. <
-10. <>
+9. 1. <https://www.google.es/search?q=bitcoin+~robo>
+   2. <https://www.google.es/search?q=bitcoin+%2Brobo>
+10. <https://www.google.es/search?q=define%3Aorate>
 11. <https://www.google.es/search?Ir=lang_de&q=hola>
 12. <https://www.google.es/search?cr=countryDE&q=adios>
-13. <https://www.google.es/search?cr=countryDE&Ir=land_de&q=diego>
+13. <https://www.google.es/search?cr=countryDE&Ir=lang_de&q=diego>
