@@ -7,7 +7,7 @@
 5. <https://www.google.es/search?as_filetype=JPG&q=league+of+legends>
 6. <https://www.google.es/search?as_sitesearch=euw.leagueoflegends.com&q=bots>
 7. <https://www.google.es/search?as_qdr=d&q=hackers>
-8. <https://www.google.es/search?as_rights=(cc_publicdomain|cc_attribute|cc_sharealike).-(cc_noncommercial|cc_nonderived)-&as_filetype=PNG&q=league+of+legends>
+8. <https://www.google.es/search?as_rights=(cc_publicdomain|cc_attribute|cc_sharealike).-(cc_noncommercial|cc_nonderived)&as_filetype=PNG&q=league+of+legends>
 9. 1. <https://www.google.es/search?q=bitcoin+~robo>
    2. <https://www.google.es/search?q=bitcoin+%2Brobo>
 10. <https://www.google.es/search?q=define%3Aorate>
